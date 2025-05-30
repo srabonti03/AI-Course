@@ -47,7 +47,7 @@ These algorithms enhanced my understanding of AI search techniques, optimization
 ### 🕹️ Game Projects:
 - **Tic Tac Toe** (with AI move logic)
 - **Chess** (basic logic implemented)
-- **Baby AI** (a creative concept-based game designed for logic application)
+- **Ludo** (a classic board game of strategy and luck, perfect for fun and social play)
 
 Developing these games helped solidify the theoretical knowledge by transforming it into interactive applications.
 
