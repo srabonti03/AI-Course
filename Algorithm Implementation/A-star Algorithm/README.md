@@ -57,3 +57,26 @@ f(n) = g(n) + h(n)
 
 ```python
 Optimal Solution Path:  A -> C -> H
+```
+
+---
+
+## 🌍 Applications of A*
+
+- 🗺️ **Navigation Systems** (Google Maps, GPS routing)  
+- 🎮 **Game AI Pathfinding**  
+- 🧠 **Robotics Planning**  
+- 🧩 **Puzzle Solvers** (8-puzzle, maze solving)  
+- 🤖 **Decision Trees & Planning**  
+
+---
+
+## ⏱️ Time & Space Complexity
+
+| Type             | Complexity                   |
+|------------------|-----------------------------|
+| **Time Complexity**  | O(E) (where E is number of edges)  |
+| **Space Complexity** | O(V) (where V is number of nodes)  |
+
+> Heuristic quality affects performance. A perfect heuristic gives optimal performance.
+
