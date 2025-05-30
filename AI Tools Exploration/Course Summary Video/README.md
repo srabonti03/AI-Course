@@ -24,6 +24,19 @@ The video was created using the following AI tool:
 
 - [Pictory AI](https://pictory.ai/) – A tool used to generate videos from written scripts and text prompts.
 
+### ✅ Steps Followed to Create the Video Using Pictory:
+To create a polished and professional summary video, I followed a systematic process using Pictory’s intuitive AI-powered tools, ensuring clarity and engagement throughout.
+
+- Prepared a final version of the video script highlighting key points from the AI course.
+- Uploaded the script into Pictory’s script-to-video feature.
+- Let Pictory automatically divide the script into scenes and recommend matching visuals.
+- Reviewed and replaced some AI-suggested visuals with more relevant ones to enhance clarity.
+- Selected a professional voiceover to maintain a formal and academic tone.
+- Adjusted video pacing, transitions, and text formatting for better viewer engagement.
+- Customized the background music and overall theme to match the subject matter.
+- Previewed and finalized the video, ensuring smooth flow and message delivery.
+- Exported the high-quality video for submission and sharing.
+
 ---
 
 ## 📝 Script Used for the Video
