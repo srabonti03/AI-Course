@@ -1,4 +1,4 @@
-# 🎯 AO* Algorithm for AND-OR Graphs
+# 🔗 AO* Algorithm for AND-OR Graphs
 
 This code implements the AO* (And-Or Star) algorithm, used for searching in AND-OR graphs with heuristic cost estimation. It finds the optimal solution path by evaluating AND and OR nodes, combining heuristic costs and path costs efficiently.
 
