@@ -19,7 +19,7 @@ AO* uses heuristics to guide search towards the minimum cost solution graph and 
 
 - It starts at the root node and evaluates child nodes based on AND or OR semantics.
 - For **OR nodes** `(like 'A')`, it selects the child with the minimum combined cost `(path cost + heuristic)`.
--  For **AND nodes** `(like 'B' and 'C')`, it sums the costs of all children and their heuristics.
+- For **AND nodes** `(like 'B' and 'C')`, it sums the costs of all children and their heuristics.
 - Heuristic values are updated during the search to reflect improved cost estimates.
 - The search continues recursively, updating solution paths and pruning suboptimal branches.
 
