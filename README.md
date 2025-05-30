@@ -61,7 +61,7 @@ As part of this course, I created the following using **free AI tools**:
   Created using [Pictory AI](https://pictory.ai/) to summarize key concepts and experiences in a visually engaging format.
 
 - **🖼️ AI-Generated Presentation Slides**:
-  Designed using tools like [Canva AI](https://www.canva.com/features/ai-presentation-maker/) for clean, professional slide decks.
+  Designed using tools like [Slidesgo.com](https://slidesgo.com/) for clean, professional slide decks.
 
 > 📁 Detailed steps and tool usage are available in the `AI Tools Exploration` folder.
 
