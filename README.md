@@ -7,10 +7,10 @@ This repository has been developed as part of my academic coursework for the **A
 ## 👩‍🎓 Student Information
 
 - **Name**: Srabonti Talukdar  
-- **Registration No**: [Insert your Registration Number]  
-- **Session**: [Insert your Session, e.g., 2020–21]  
-- **Department**: [Insert Department Name]  
-- **University**: [Insert Your University Name]
+- **Registration No**: 0562220005101037 
+- **Session**: Summer 22
+- **Department**: Computer Science & Engineering
+- **University**: North East University Bangladesh
 
 ---
 
@@ -52,7 +52,7 @@ Developing these games helped solidify the theoretical knowledge by transforming
 
 ---
 
-## 🎞️ Multimedia Projects (Created by Me)
+## 🎞️ Multimedia Projects
 
 As part of the course requirements, I personally created the following multimedia projects using **free AI-powered tools**:
 
@@ -76,9 +76,11 @@ The creation process for both tools is documented under the `AI Tools Exploratio
 ## 👨‍🏫 Course Instructor
 
 - **Supervisor**: *Razorshi Prozzol Talukdar*  
+- **Course Code**: CSE-412  
 - **Course Name**: Artificial Intelligence  
-- **Department**: [Insert Department Name]  
-- **Institution**: [Insert Your University Name]
+- **Department**: Faculty of Computer Science and Engineering (CSE)  
+- **Institution**: North East University Bangladesh
+
 
 ---
 
