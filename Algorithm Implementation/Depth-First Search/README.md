@@ -60,7 +60,7 @@ S->A->B->D->E->C->G->H->I->K->J
 - 🗺️ **Maze & Puzzle Solving**  
 - 📊 **Topological Sorting in Directed Acyclic Graphs (DAGs)**  
 - 🔎 **Connectivity Testing**
-- 🤖 **AI Search & Backtracking Algorithms
+- 🤖 **AI Search & Backtracking Algorithms**
 
 **
 
