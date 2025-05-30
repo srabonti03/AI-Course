@@ -54,15 +54,15 @@ Developing these games helped solidify the theoretical knowledge by transforming
 
 ## 🎞️ Multimedia Projects
 
-As part of the course requirements, I personally created the following multimedia projects using **free AI-powered tools**:
+As part of this course, I created the following using **free AI tools**:
 
-### 🎥 **AI Course Video (1 minute)**:
-I used **[Pictory AI](https://pictory.ai/)** to generate a short video summarizing the course contents and my learning experience. The tool allowed me to convert a written script into a visually engaging video with narration and transitions.
+- **🎥 1-Minute Course Video**:  
+  Created using [Pictory AI](https://pictory.ai/) to summarize key concepts and experiences in a visually engaging format.
 
-### 🖼️ **AI-generated Presentation Slides**:
-For my presentation deck, I utilized tools like **[Designs.AI Presentation Maker](https://designs.ai/tools/presentation-maker)** and **[Canva AI](https://www.canva.com/features/ai-presentation-maker/)** to quickly generate aesthetically pleasing, informative slides. These tools helped me focus more on content creation while the layout and design were handled by AI.
+- **🖼️ AI-Generated Presentation Slides**:  
+  Designed using tools like [Canva AI](https://www.canva.com/features/ai-presentation-maker/) and [Designs.AI Presentation Maker](https://designs.ai/tools/presentation-maker) for clean, professional slide decks.
 
-The creation process for both tools is documented under the `AI Tools Exploration` folder for reference.
+> 📁 Detailed steps and tool usage are available in the `AI Tools Exploration` folder.
 
 ---
 
