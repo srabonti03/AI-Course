@@ -53,9 +53,10 @@ one from the **start** and one from the **goal**.
 
 ```python
 Path from S to G: ['S', '1', '4', '6', '7', '8', '9', '11', 'G']
----
+```
 > The returned path may vary depending on node traversal order — all valid shortest paths!
 
+---
 ## 🌍 Applications of Bidirectional Search
 
 - 📍 **GPS Navigation & Route Optimization**  
