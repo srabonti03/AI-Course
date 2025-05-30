@@ -43,19 +43,23 @@ f(n) = g(n) + h(n)
 
 ## 🖼️ Input & Output
 
+### 📥 Input Graph Structure
+
 <p align="center">
   <img src="../images/a-star.png" alt="A-star Graph" />
   <br/>
   <em>A* Search Algorithm Graph with AND-OR Node Relationships</em>
 </p>
 
-### 📥 Input Graph Structure
-
-![Input Graph](../../images/input_graph.png)
-
 ---
 
 ### 📤 Output Path
+
+<p align="center">
+  <img src="../images/a-star-output.png" alt="A-star Graph Output" />
+  <br/>
+  <em>Optimal path found by the A* algorithm on the AND-OR graph</em>
+</p>
 
 ```python
 Optimal Solution Path:  A -> C -> H
