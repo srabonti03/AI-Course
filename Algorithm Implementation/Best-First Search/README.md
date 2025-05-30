@@ -55,7 +55,7 @@ A->B->E->H->G
 > Note: This is not guaranteed to be optimal, but chosen based on lowest heuristic values.
 ---
 
-## 🌍 Applications of Beam Search
+## 🌍 Applications of Best-First Search
 
 - 🧠 **Pathfinding in AI Games**  
 - 📱 **Route Planning & Navigation Systems**  
