@@ -76,7 +76,7 @@ As part of this course, I created the following using **free AI tools**:
 
 ## 👨‍🏫 Course Instructor
 
-- **Supervisor**: *Razorshi Prozzol Talukdar*
+- **Supervisor**: *Razorshi Prozzwal Talukder*
 - **Course Code**: CSE-412
 - **Course Name**: Artificial Intelligence
 - **Department**: Faculty of Computer Science and Engineering (CSE)
