@@ -1,4 +1,4 @@
-# 🧠 AI Course Repository
+# 🧠 Exploring AI: Algorithms, Games & Tools
 
 This repository has been developed as part of my academic coursework for the **Artificial Intelligence (AI)** course. It contains various algorithm implementations, AI-based games, and multimedia projects (including a video and presentation) created using AI-powered tools. The contents of this repository reflect both my theoretical understanding and practical learning throughout the course.
 
