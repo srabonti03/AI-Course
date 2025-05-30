@@ -20,7 +20,7 @@ This implementation demonstrates the **Depth-Limited Search (DLS)** algorithm â€
 - Starts from a start node with an initial depth of zero.
 - Recursively explores neighbors, increasing depth by one each step.
 - Stops recursion if the current depth exceeds the **limit**.
-- f the goal is found within the limit, search ends successfully.
+- If the goal is found within the limit, search ends successfully.
 - Tracks if the limit is crossed without finding the goal.
 
 ---
