@@ -11,7 +11,7 @@ Beam Search is ideal when the full breadth of the tree is too large to explore. 
 - It uses heuristics to determine the most promising paths.
 - Operates like best-first search but limits the number of nodes explored at each level.
 - Often used in AI systems where speed is crucial and full accuracy can be traded for performance.
-- 
+  
 ---
 
 ## 🧠 How the Algorithm Works
