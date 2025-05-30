@@ -1,4 +1,4 @@
-# ⚡ Greedy Best-First Search Algorithm for Heuristic Pathfinding
+# ⚡Greedy Best-First Search Algorithm for Heuristic Pathfinding
 
 This code implements the Greedy Best-First Search (GBFS) algorithm — a heuristic-driven search strategy that always expands the node that appears to be closest to the goal based on heuristic estimates. It offers fast results, especially in vast graphs, although it doesn’t guarantee the optimal path.
 
