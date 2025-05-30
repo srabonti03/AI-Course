@@ -6,8 +6,8 @@ This repository has been developed as part of my academic coursework for the **A
 
 ## 👩‍🎓 Student Information
 
-- **Name**: Srabonti Talukdar  
-- **Registration No**: 0562220005101037 
+- **Name**: Srabonti Talukdar
+- **Registration No**: 0562220005101037
 - **Session**: Summer 22
 - **Department**: Computer Science & Engineering
 - **University**: North East University Bangladesh
