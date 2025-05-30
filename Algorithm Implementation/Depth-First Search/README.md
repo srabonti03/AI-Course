@@ -54,7 +54,7 @@ S->A->B->D->E->C->G->H->I->K->J
 > Nodes are printed in the order they are visited deeply before backtracking.
 ---
 
-## 🌍 Applications of DFS
+## 🌍 Applications of Depth-First Search (DFS)
 
 - 🕵️‍♂️ **Cycle Detection in Graphs**  
 - 🗺️ **Maze & Puzzle Solving**  
