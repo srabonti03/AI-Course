@@ -30,7 +30,8 @@ The **Artificial Intelligence (AI)** course aims to:
 Throughout the course, I explored and implemented several key concepts in AI:
 
 ### ✅ Algorithms Covered:
-- **A\*** (A-star)
+- **A\* (AO-star) Algorithm**
+- **AO\* (AO-star) Algorithm**
 - **Alpha-Beta Pruning**
 - **Beam Search**
 - **Breadth-First Search (BFS)**
