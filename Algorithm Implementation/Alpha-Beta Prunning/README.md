@@ -4,7 +4,7 @@ This project implements the Alpha-Beta Pruning algorithm, an optimized version o
 
 ---
 
-## 🚀 Project Overview
+## 🚀 About This Algorithm
 
 Alpha-Beta Pruning improves Minimax by cutting off branches that cannot affect the final decision, drastically reducing the number of nodes evaluated in the game tree. This makes it faster and more efficient while still guaranteeing the same optimal result.
 
