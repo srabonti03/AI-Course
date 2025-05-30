@@ -6,7 +6,7 @@ This repository has been developed as part of my academic coursework for the **A
 
 ## 👩‍🎓 Student Information
 
-- **Name**: Srabonti Talukdar
+- **Name**: Srabonti Suchi Talukdar
 - **Registration No**: 0562220005101037
 - **Session**: Summer 22
 - **Department**: Computer Science & Engineering
