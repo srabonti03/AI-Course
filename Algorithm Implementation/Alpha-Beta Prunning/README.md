@@ -1,4 +1,4 @@
-# ♟️ Alpha-Beta Pruning Algorithm in Game Trees
+# ♟️Alpha-Beta Pruning Algorithm in Game Trees
 
 This project implements the Alpha-Beta Pruning algorithm, an optimized version of the Minimax algorithm. It efficiently computes the optimal value for a player in a two-player zero-sum game by pruning branches that won’t influence the final decision.
 
