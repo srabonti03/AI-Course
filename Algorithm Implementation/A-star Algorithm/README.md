@@ -73,10 +73,14 @@ Optimal Solution Path:  A -> C -> H
 
 ## ⏱️ Time & Space Complexity
 
+<div align="center">
+
 | Type             | Complexity                   |
 |------------------|-----------------------------|
 | **Time Complexity**  | O(E) (where E is number of edges)  |
 | **Space Complexity** | O(V) (where V is number of nodes)  |
+
+</div>
 
 > Heuristic quality affects performance. A perfect heuristic gives optimal performance.
 
