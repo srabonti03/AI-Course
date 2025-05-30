@@ -1,4 +1,4 @@
-# 🎯 Beam Search Algorithm for Informed Graph Traversal
+# 🔦 Beam Search Algorithm for Informed Graph Traversal
 
 This code implements the Beam Search algorithm, a heuristic-based search technique that explores a limited number of best options at each level, based on heuristic estimates. It's a balance between **breadth-first search** and **greedy best-first search**, offering efficiency and speed in large search spaces.
 
