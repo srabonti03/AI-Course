@@ -68,17 +68,17 @@ As part of this course, I created the following using **free AI tools**:
 
 ## ⏳ Course Duration
 
-- **Semester**: 3/2 (6th Semester)  
-- **Total Duration**: 6 Months  
+- **Semester**: 3/2 (6th Semester)
+- **Total Duration**: 6 Months
 
 ---
 
 ## 👨‍🏫 Course Instructor
 
-- **Supervisor**: *Razorshi Prozzol Talukdar*  
-- **Course Code**: CSE-412  
-- **Course Name**: Artificial Intelligence  
-- **Department**: Faculty of Computer Science and Engineering (CSE)  
+- **Supervisor**: *Razorshi Prozzol Talukdar*
+- **Course Code**: CSE-412
+- **Course Name**: Artificial Intelligence
+- **Department**: Faculty of Computer Science and Engineering (CSE)
 - **Institution**: North East University Bangladesh
 
 
