@@ -13,7 +13,7 @@ This implementation demonstrates the Hill Climbing algorithm — a local search 
 - Moves to the neighbor with the highest heuristic value if it is better than the current state.
 - Stops when no neighbor has a better heuristic (local maximum reached).
 - Simple and efficient for many optimization tasks but may get stuck at local maxima.
-  
+
 ---
 
 ## 🧠 How the Algorithm Works
