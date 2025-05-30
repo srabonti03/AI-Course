@@ -4,7 +4,7 @@ This project implements the **A\*** Search Algorithm to find an **optimal path**
 
 ---
 
-## 🚀 Project Overview
+## 🚀 About This Algorithm
 
 The A* algorithm is widely used in AI and graph search problems to find the shortest path efficiently. This implementation handles AND-OR graphs — where nodes can have conjunctive (AND) or disjunctive (OR) child relationships — enhancing classic A* to more complex structures.
 
