@@ -57,7 +57,3 @@ f(n) = g(n) + h(n)
 
 ```python
 Optimal Solution Path:  A -> C -> H
-```
-<p align="center">
-  <em>Optimal path found by the A* algorithm on the AND-OR graph</em>
-</p>
