@@ -3,7 +3,9 @@
 This project implements the **A\*** Search Algorithm to find an **optimal path** in a graph that includes both **AND** and **OR** relationships between nodes. The algorithm uses heuristics to determine the most promising path towards the goal node.
 
 <p align="center">
-  <img src="../images/a-star.png" alt="Astar Graph" width="400" heigth="200"/>
+  <img src="../images/a-star.png" alt="A-star Graph" />
+  <br/>
+  <em>A* Search Algorithm Graph with AND-OR Node Relationships</em>
 </p>
 
 ---
