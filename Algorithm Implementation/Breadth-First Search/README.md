@@ -56,7 +56,7 @@ S->A->B->C->D->G->H->E->F->I->K
 > Nodes are printed in the order they are visited level-by-level from the source.
 ---
 
-## 🌍 Applications of Beam Search
+## 🌍 Applications of Breadth-First Search (BFS)
 
 - 📍 **Shortest Path in Unweighted Graphs**  
 - 🧠 **AI for Pathfinding (e.g., Pac-Man, Chess AI)**  
