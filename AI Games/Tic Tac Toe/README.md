@@ -108,9 +108,9 @@ tic-tac-toe-app/
 
 ## 👩‍💻 Author
 
-**Srabonti Suchi Talukdar**
-Department of Computer Science & Engineering
-North East University Bangladesh
+- **Srabonti Suchi Talukdar**
+- Department of Computer Science & Engineering
+- North East University Bangladesh
 
 ---
 
