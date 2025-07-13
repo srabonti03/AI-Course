@@ -68,25 +68,24 @@ The AI uses a **Minimax algorithm** with **memoization** to optimize decision ma
 
 ## 📷 Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="./screenshots/rps-init.png" alt="Rock Paper Scissors Initial Screen" width="250" />
-      <br/>
-      <em>Initial game screen showing choice buttons and score</em>
-    </td>
-    <td align="center">
-      <img src="./screenshots/rps-playing.png" alt="Rock Paper Scissors Gameplay" width="250" />
-      <br/>
-      <em>Gameplay in progress with user and AI choices displayed</em>
-    </td>
-    <td align="center">
-      <img src="./screenshots/rps-win.png" alt="Rock Paper Scissors Win Screen" width="250" />
-      <br/>
-      <em>Win screen displaying final score and game result</em>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="../screenshots/rps-init.png" alt="Rock Paper Scissors Initial Screen" width="250" /><br/>
+        <em>Initial game screen showing choice buttons and score</em>
+      </td>
+      <td align="center">
+        <img src="../screenshots/rps-playing.png" alt="Rock Paper Scissors Gameplay" width="250" /><br/>
+        <em>Gameplay in progress with user and AI choices displayed</em>
+      </td>
+      <td align="center">
+        <img src="../screenshots/rps-win.png" alt="Rock Paper Scissors Win Screen" width="250" /><br/>
+        <em>Win screen displaying final score and game result</em>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
