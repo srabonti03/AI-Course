@@ -70,8 +70,8 @@ The AI uses the **Minimax algorithm** with a depth-limited search (default depth
 
 ## 📷 Screenshots
 
-<div style="text-align: center;">
-  <table style="margin: 0 auto;">
+<div style="display: flex; justify-content: center; width: 100%;">
+  <table>
     <tr>
       <td align="center">
         <img src="../screenshots/chess-init.png" alt="Chess Initial Screen" width="250" />
