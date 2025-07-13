@@ -70,27 +70,24 @@ The AI uses the **Minimax algorithm** with a depth-limited search (default depth
 
 ## 📷 Screenshots
 
-<div style="display: flex; justify-content: center; width: 100%;">
+<p align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="../screenshots/chess-init.png" alt="Chess Initial Screen" width="250" />
-        <br/>
+        <img src="../screenshots/chess-init.png" alt="Chess Initial Screen" width="250"/><br/>
         <em>Initial chessboard with pieces set up</em>
       </td>
       <td align="center">
-        <img src="../screenshots/chess-playing.png" alt="Chess Gameplay" width="250" />
-        <br/>
+        <img src="../screenshots/chess-playing.png" alt="Chess Gameplay" width="250"/><br/>
         <em>Chess Gameplay</em>
       </td>
       <td align="center">
-        <img src="../screenshots/chess-gameover.png" alt="Chess Win Screen" width="250" />
-        <br/>
+        <img src="../screenshots/chess-gameover.png" alt="Chess Win Screen" width="250"/><br/>
         <em>Game over with checkmate or draw notification</em>
       </td>
     </tr>
   </table>
-</div>
+</p>
 
 ---
 
