@@ -83,7 +83,7 @@ The AI uses the **Minimax algorithm** with a depth-limited search (default depth
       </td>
       <td align="center">
         <img src="../screenshots/chess-gameover.png" alt="Chess Win Screen" width="250"/><br/>
-        <em>Game over with checkmate or draw notification</em>
+        <em>Game over with checkmate</em>
       </td>
     </tr>
   </table>
