@@ -1,0 +1,5 @@
+# Auto normalize text files to LF on commit
+* text=auto
+
+# Don't convert line endings for node_modules (because they're external)
+node_modules/** -text
