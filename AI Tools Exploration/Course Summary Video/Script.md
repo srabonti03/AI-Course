@@ -18,5 +18,3 @@ Using AI tools like Pictory and ChatGPT, I developed this video and crafted pres
 Guided by Razorshi Prozzwal Talukder, this course blended theory and practical work, making me confident in building intelligent applications.
 
 This project reflects my passion and growth in Artificial Intelligence. Thank you for watching.
-
-https://video.pictory.ai/1752426049153/20250713172152830NrzPuIdLe1REj2b
