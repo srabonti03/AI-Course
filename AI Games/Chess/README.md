@@ -70,25 +70,24 @@ The AI uses the **Minimax algorithm** with a depth-limited search (default depth
 
 ## 📷 Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="./screenshots/chess-init.png" alt="Chess Initial Screen" width="250" />
-      <br/>
-      <em>Initial chessboard with pieces set up</em>
-    </td>
-    <td align="center">
-      <img src="./screenshots/chess-playing.png" alt="Chess Gameplay" width="250" />
-      <br/>
-      <em>Chess Gameplay</em>
-    </td>
-    <td align="center">
-      <img src="./screenshots/chess-gameover.png" alt="Chess Win Screen" width="250" />
-      <br/>
-      <em>Game over with checkmate or draw notification</em>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="../screenshots/chess-init.png" alt="Chess Initial Screen" width="250"/><br/>
+        <em>Initial chessboard with pieces set up</em>
+      </td>
+      <td align="center">
+        <img src="../screenshots/chess-playing.png" alt="Chess Gameplay" width="250"/><br/>
+        <em>Chess Gameplay</em>
+      </td>
+      <td align="center">
+        <img src="../screenshots/chess-gameover.png" alt="Chess Win Screen" width="250"/><br/>
+        <em>Game over with checkmate</em>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -110,9 +109,9 @@ chess-game-app/
 
 ## 👩‍💻 Author
 
-**Srabonti Suchi Talukdar**
-Department of Computer Science & Engineering
-North East University Bangladesh
+- **Srabonti Suchi Talukdar**
+- Department of Computer Science & Engineering
+- North East University Bangladesh
 
 ---
 

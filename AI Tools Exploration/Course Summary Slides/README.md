@@ -21,8 +21,6 @@ To deliver a professional presentation that:
 
 ## 📂 Files Included
 
-## 📂 Files Included
-
 - [`My Journey Through Artificial Intelligence.pdf`](./My%20Journey%20Through%20Artificial%20Intelligence.pdf) – Polished, ready-to-view slide deck for easy sharing.
 - [`My Journey Through Artificial Intelligence.pptx`](./My%20Journey%20Through%20Artificial%20Intelligence.pptx) – Editable PowerPoint file for customization and future tweaks.
 - [`SlideText.md`](./SlideText.md) – Slide script and detailed content created with ChatGPT for clarity and flow.

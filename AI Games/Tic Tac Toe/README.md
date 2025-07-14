@@ -69,25 +69,24 @@ The game uses the **Minimax algorithm** with a slight **randomness factor (30%)*
 
 ## 📷 Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="./screenshots/ttt-init.png" alt="Tic Tac Toe Initial Screen" width="250" />
-      <br/>
-      <em>Initial game screen with empty board and scores</em>
-    </td>
-    <td align="center">
-      <img src="./screenshots/ttt-playing.png" alt="Tic Tac Toe Gameplay" width="250" />
-      <br/>
-      <em>Gameplay in progress showing player and AI moves</em>
-    </td>
-    <td align="center">
-      <img src="./screenshots/ttt-win.png" alt="Tic Tac Toe Win Screen" width="250" />
-      <br/>
-      <em>Win screen showing the winner and scores</em>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="../screenshots/ttt-init.png" alt="Tic Tac Toe Initial Screen" width="250" /><br/>
+        <em>Initial game screen with empty board and scores</em>
+      </td>
+      <td align="center">
+        <img src="../screenshots/ttt-playing.png" alt="Tic Tac Toe Gameplay" width="250" /><br/>
+        <em>Gameplay in progress showing player and AI moves</em>
+      </td>
+      <td align="center">
+        <img src="../screenshots/ttt-win.png" alt="Tic Tac Toe Win Screen" width="250" /><br/>
+        <em>Win screen showing the winner and scores</em>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -109,9 +108,9 @@ tic-tac-toe-app/
 
 ## 👩‍💻 Author
 
-**Srabonti Suchi Talukdar**
-Department of Computer Science & Engineering
-North East University Bangladesh
+- **Srabonti Suchi Talukdar**
+- Department of Computer Science & Engineering
+- North East University Bangladesh
 
 ---
 
